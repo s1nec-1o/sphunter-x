@@ -1,5 +1,7 @@
 # spHunter - Android 设备指纹采集工具
 
+[English](README_en.md) | [中文](README.md)
+
 ## 📖 项目简介
 
 spHunter 是一个功能强大的 Android 设备指纹采集工具，能够从 Java 层和 Native 层全面收集设备指纹信息。该项目采用模块化架构设计，通过反射机制调用 Hidden API，并使用 JNI 技术访问底层系统信息，为设备识别和安全分析提供全面的数据支持。
