@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">spHunter</string>
+    <string name="title_fingerprint">设备指纹采集</string>
+    <string name="btn_java_fingerprint">Java 层指纹</string>
+    <string name="btn_native_fingerprint">Native 层指纹</string>
+    <string name="output_placeholder">点击按钮获取设备指纹信息</string>
+    <string name="output_label">输出结果</string>
+</resources>

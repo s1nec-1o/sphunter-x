@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- iOS 暗色模式颜色 -->
+    <color name="ios_blue">#0A84FF</color>
+    <color name="ios_blue_dark">#409CFF</color>
+    <color name="ios_green">#30D158</color>
+    <color name="ios_gray_light">#1C1C1E</color>
+    <color name="ios_gray_medium">#2C2C2E</color>
+    <color name="ios_gray_dark">#98989D</color>
+    <color name="ios_background">#000000</color>
+    <color name="ios_card_background">#1C1C1E</color>
+    <color name="ios_text_primary">#FFFFFF</color>
+    <color name="ios_text_secondary">#98989D</color>
+    <color name="ios_separator">#38383A</color>
+</resources>
+
